@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to gitHub Learning slide!"
 ---
 This is a github demo to understand github.
 Use the left arrow to go back!
